@@ -1,0 +1,18 @@
+Age,City,cough,cold,fever,temperature,vaccinated,Test Result
+22,Jodhpur,Yes,Yes,Yes,108,No,Positive
+24,Jaipur,Yes,No,Yes,102,No,Negative
+55,Jodhpur,No,No,No,97,No,Negative
+54,Pali,Yes,Yes,Yes,107,Yes,Negative
+81,Nagor,No,Yes,No,99,Yes,Positive
+21,Kota,No,No,No,97,Yes,Negative
+35,Jaipur,Yes,Yes,Yes,104,Yes,Positive
+45,Pali,Yes,Yes,Yes,106,No,Positive
+62,Pali,Yes,No,Yes,101,No,Negative
+15,Jodhpur,Yes,Yes,Yes,110,No,Positive
+32,Kota,No,No,No,97,Yes,Negative
+82,Nagor,No,No,No,98,No,Negative
+49,Jodhpur,Yes,No,Yes,98,No,Positive
+33,Jaipur,No,No,No,97,Yes,Positive
+16,Kota,No,Yes,No,96,Yes,Negative
+19,Nagor,No,Yes,No,99,No,Negative
+28,Kota,No,No,No,101,Yes,Negative

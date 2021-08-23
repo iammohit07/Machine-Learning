@@ -1,0 +1,22 @@
+Document,K1,K2,K3,K4,K5,News Category
+D1,virus,china,covaxine,death,isolation,COVID
+D2,vaccine,virus,covishield,recover,case,COVID
+D3,india,positive,china,slot,active,COVID
+D4,active,medicine,virus,positive,lockdown,COVID
+D5,china,covaxcine,economy,test,covishield,COVID
+D6,isolation,people,vaccine,recover,lockdown,COVID
+D7,test,active,student,virus,covishield,COVID
+D8,bat,fit,batsman,rest,ground,SPORTS
+D9,healthy,ball,morning,sachin,oneday,SPORTS
+D10,ground,play,healthy,dhoni,batsman,SPORTS
+D11,dhoni,bat,ground,test,oneday,SPORTS
+D12,oneday,team,play,fit,cup,SPORTS
+D13,dhoni,ground,trophy,sachin,play,SPORTS
+D14,ball,play,fit,win,bat,SPORTS
+D15,modi,congress,channel,party,india,POLITICS
+D16,india,bengal,petrol,bjp,money,POLITICS
+D17,congress,mamta,modi,party,amitshah,POLITICS
+D18,amitshah,money,swissbank,congress,mamta,POLITICS
+D19,modi,petrol,channel,swissbank,corruption,POLITICS
+D20,channel,swissbank,money,bribe,modi,POLITICS
+D21,party,bjp,bengal,petrol,mamta,POLITICS
